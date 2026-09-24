@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+FrameGuard_Reports/
+frameguard_*/
+*.tmp
+*.log
+.env
+.vscode/
+.idea/
